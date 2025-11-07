@@ -20,3 +20,4 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 
 Your solution need not be the most efficient one. Of course you are encouraged to come out with the most efficient solution
+
